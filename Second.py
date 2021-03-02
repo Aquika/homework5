@@ -12,4 +12,4 @@ def fizzbuzz(intList):
     return temp
 
 
-print (fizzbuzz(range(1,20)))
+print (fizzbuzz(range(1000,20000)))
